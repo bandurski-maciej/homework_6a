@@ -1,1 +1,1 @@
-# homework_6a
+# hibernate-demo
