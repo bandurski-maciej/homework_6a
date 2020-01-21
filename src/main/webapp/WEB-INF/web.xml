@@ -14,15 +14,4 @@
     <password>root</password>
   </data-source>
 
-  <servlet>
-    <servlet-name>TeacherServlet</servlet-name>
-    <servlet-class>com.infoshareacademy.web.TeacherServlet</servlet-class>
-    <load-on-startup>1</load-on-startup>
-  </servlet>
-  <servlet>
-    <servlet-name>StudentServlet</servlet-name>
-    <servlet-class>com.infoshareacademy.web.StudentServlet</servlet-class>
-    <load-on-startup>1</load-on-startup>
-  </servlet>
-
 </web-app>
